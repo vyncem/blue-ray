@@ -189,6 +189,11 @@ fieldset[disabled] .btn-xl.active {
     padding-top: 12px;
 }
 
+.team-pic {
+    border-radius: 100%;
+    height: 100%;
+}
+
 .logo-font {
     font-family: Nyala !important;
     color: white !important;
@@ -340,7 +345,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 160px;
         padding-bottom: 200px;
     }
 
